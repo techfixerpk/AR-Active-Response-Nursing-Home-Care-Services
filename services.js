@@ -1,0 +1,1 @@
+export const services = [ { id: 1, title: '24/7 ICU Train Staff', icon: 'HeartPulse' }, { id: 2, title: 'Doctor At Home', icon: 'User' }, { id: 3, title: 'IV Medication / Drips', icon: 'Syringe' }, { id: 4, title: 'Oxygen Therapy', icon: 'Wind' }, { id: 5, title: 'Post Operative Home Care', icon: 'Home' } ];

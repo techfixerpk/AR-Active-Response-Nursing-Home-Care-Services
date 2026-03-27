@@ -1,0 +1,1 @@
+export const equipments = [ { id: 1, name: 'Oxygen Concentrator / Cylinder', price: 'Contact for Rate', type: 'Rent & Sale' }, { id: 2, name: 'Bipap Machine', price: 'Contact for Rate', type: 'Rent & Sale' }, { id: 3, name: 'Nebulizer Machine', price: 'Contact for Rate', type: 'Sale' } ];
